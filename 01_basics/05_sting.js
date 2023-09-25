@@ -16,7 +16,7 @@ const gameName = new String('hitesh-hc-com')
 // console.log(gameName.charAt(2));
 // console.log(gameName.indexOf('t'));
 
-// const newString = gameName.substring(0, 4)
+// const newString = gameName.substring(0, 4)  -->gameName.substring(0, 4) would return "Supe" because it extracts characters from index 0 to 3 (inclusive).
 // console.log(newString);
 
 // const anotherString = gameName.slice(-8, 4)
