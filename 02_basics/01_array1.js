@@ -10,7 +10,7 @@ const myArr2 = new Array(1, 2, 3, 4)
 // Array methods
 // myArr.push(6) - Adds the element 6 to the end of the array.
 // myArr.push(7) - Adds the element 7 to the end of the array.
-// myArr.pop()   - Removes and *returns the last element from the array.
+// myArr.pop()   - Removes and *returns the last element from the array.y
 
 // myArr.unshift(9) - Adds the element 9 to the beginning of the array.add the value at the begining of array and (shift all the values one index ahead **tiemoverhead)
 // myArr.shift()    - Removes and *returns the first element from the array.
