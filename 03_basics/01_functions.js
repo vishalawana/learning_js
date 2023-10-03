@@ -39,12 +39,15 @@ function loginUsermsg(username = "sam"){// default parameter{
 function calculateCartPrice(val1, val2, ...num1){
     return num1
 }
-// console.log(calculateCartPrice(200, 400, 500, 2000));//num 1 will be printed the last two parameter
 
+// ... is called spread operator and rest operator but use case is diffrent
+// console.log(calculateCartPrice(200, 400, 500, 2000));//num 1 will be printed the last two parameter
+console.log(typeof num1);
 const user = {
     username:"hitesh",
     price: 199
 }
+//how to pass an object in a function
 
 function handleObject(anyobject){
     console.log(`username is ${anyobject.username} and price is ${anyobject.price}`);
