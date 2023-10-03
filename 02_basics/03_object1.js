@@ -1,6 +1,6 @@
 //singleton object created using constructor
 
-//objcet literals
+//objcet literals 
 const mySym = Symbol("key1");// understanding the working with symbol as a key in object
 
 const jsUser = {
